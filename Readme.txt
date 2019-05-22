@@ -1,0 +1,1 @@
+This project focuses on creating a classification Model for predicting Spam E-mails.
